@@ -1,0 +1,22 @@
+{
+    "name": "Work Hours Calculator",
+    "short_name": "WorkHours",
+    "description": "A simple app to calculate work hours.",
+    "icons": [
+      {
+        "src": "icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffecd2",
+    "theme_color": "#fcb69f"
+  }
+  
